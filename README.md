@@ -1,2 +1,2 @@
-# prosjekter
-Oversikt over prosjekter i regi av Creative Commons Norge
+# Prosjekter
+Oversikt over prosjekter og aktiviteter i regi av Creative Commons Norge
