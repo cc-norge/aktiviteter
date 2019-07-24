@@ -3,11 +3,11 @@
 ### Tidspunkt: 13. august kl. 16.30-18.00
 ### Sted: Teknologihuset i Oslo, Pilestredet 56, 0167 Oslo
 
-Creative Commons globalt har gjennom de siste to årene jobbet frem en ny strategi for sitt globale nettverk, og som en del av dette arbeidet, skal alle nasjonale chapters etableres på nytt i en ny struktur.   
+Creative Commons globalt har gjennom de siste to årene jobbet frem en ny [strategi](https://github.com/creativecommons/global-network-strategy/blob/master/GlobalNetworkStrategy-Final.md) for sitt globale nettverk, og som en del av dette arbeidet, skal alle nasjonale chapters etableres på nytt i en ny struktur.   
 
 Dette første møtet for Creative Commons Norge har som hovedfunksjon å etablere et nytt CC Norge chapter, samt å velge “Chapter lead” for CC Norge og representant til “Global Network Council”.  
 
-Christer Gundersen stiller som kandidat til rollen som Chapter Lead.
+[Christer Gundersen](https://www.christer.io/bio-christer-gundersen/) stiller som kandidat til rollen som Chapter Lead.
 
 Vi oppfordrer alle som ønsker å bidra i Creative Commons Norge til å melde seg inn som personlig medlem i Creative Commons Global Network.
 Agenda for møtet
